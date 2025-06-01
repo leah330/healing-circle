@@ -63,4 +63,18 @@ p{
 ul li{
     list-style: none;
     padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+
+}
+
+.help h2{
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+padding-top: 10px;
+}
+.help ul li{
+    align-items: baseline;
 }
