@@ -14,6 +14,9 @@ body{
 h1{
   color:black; 
   align-items: center; 
+  background-color: beige;
+  border-radius: 50px;
+  padding-left: 40px;
 
 }
 h3{
@@ -73,8 +76,7 @@ ul li{
     color: black;
     background-color: white;
     border-radius: 10pxpx;
-padding-top:70px;
-padding-top: 20px;
+    padding-top: 20px;
 }
 .help{
     vertical-align: baseline;
